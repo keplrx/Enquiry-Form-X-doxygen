@@ -25,19 +25,19 @@
 var NAVTREE =
 [
   [ "Enquiry Form Plugin", "index.html", [
-    [ "Enquiry Form Plugin", "md__c_1_2xampp_2htdocs_2_fake2_2wp-content_2plugins_2_enquiry-_form_2_r_e_a_d_m_e.html", [
-      [ "Features", "md__c_1_2xampp_2htdocs_2_fake2_2wp-content_2plugins_2_enquiry-_form_2_r_e_a_d_m_e.html#autotoc_md1", null ],
-      [ "Installation", "md__c_1_2xampp_2htdocs_2_fake2_2wp-content_2plugins_2_enquiry-_form_2_r_e_a_d_m_e.html#autotoc_md3", null ],
-      [ "Usage", "md__c_1_2xampp_2htdocs_2_fake2_2wp-content_2plugins_2_enquiry-_form_2_r_e_a_d_m_e.html#autotoc_md5", null ],
-      [ "Screenshots", "md__c_1_2xampp_2htdocs_2_fake2_2wp-content_2plugins_2_enquiry-_form_2_r_e_a_d_m_e.html#autotoc_md7", null ],
-      [ "Configuration", "md__c_1_2xampp_2htdocs_2_fake2_2wp-content_2plugins_2_enquiry-_form_2_r_e_a_d_m_e.html#autotoc_md9", [
-        [ "Customizing the Enquiry Form", "md__c_1_2xampp_2htdocs_2_fake2_2wp-content_2plugins_2_enquiry-_form_2_r_e_a_d_m_e.html#autotoc_md10", null ],
-        [ "Email Settings", "md__c_1_2xampp_2htdocs_2_fake2_2wp-content_2plugins_2_enquiry-_form_2_r_e_a_d_m_e.html#autotoc_md11", null ],
-        [ "Enquiry Management", "md__c_1_2xampp_2htdocs_2_fake2_2wp-content_2plugins_2_enquiry-_form_2_r_e_a_d_m_e.html#autotoc_md12", null ]
+    [ "Enquiry Form Plugin", "md__c_1_2_users_2nashc_2_git_hub_01_projects_2_enquiry-_form_2_r_e_a_d_m_e.html", [
+      [ "Features", "md__c_1_2_users_2nashc_2_git_hub_01_projects_2_enquiry-_form_2_r_e_a_d_m_e.html#autotoc_md1", null ],
+      [ "Installation", "md__c_1_2_users_2nashc_2_git_hub_01_projects_2_enquiry-_form_2_r_e_a_d_m_e.html#autotoc_md3", null ],
+      [ "Usage", "md__c_1_2_users_2nashc_2_git_hub_01_projects_2_enquiry-_form_2_r_e_a_d_m_e.html#autotoc_md5", null ],
+      [ "Screenshots", "md__c_1_2_users_2nashc_2_git_hub_01_projects_2_enquiry-_form_2_r_e_a_d_m_e.html#autotoc_md7", null ],
+      [ "Configuration", "md__c_1_2_users_2nashc_2_git_hub_01_projects_2_enquiry-_form_2_r_e_a_d_m_e.html#autotoc_md9", [
+        [ "Customizing the Enquiry Form", "md__c_1_2_users_2nashc_2_git_hub_01_projects_2_enquiry-_form_2_r_e_a_d_m_e.html#autotoc_md10", null ],
+        [ "Email Settings", "md__c_1_2_users_2nashc_2_git_hub_01_projects_2_enquiry-_form_2_r_e_a_d_m_e.html#autotoc_md11", null ],
+        [ "Enquiry Management", "md__c_1_2_users_2nashc_2_git_hub_01_projects_2_enquiry-_form_2_r_e_a_d_m_e.html#autotoc_md12", null ]
       ] ],
-      [ "Contributing", "md__c_1_2xampp_2htdocs_2_fake2_2wp-content_2plugins_2_enquiry-_form_2_r_e_a_d_m_e.html#autotoc_md14", null ],
-      [ "License", "md__c_1_2xampp_2htdocs_2_fake2_2wp-content_2plugins_2_enquiry-_form_2_r_e_a_d_m_e.html#autotoc_md16", null ],
-      [ "Contact", "md__c_1_2xampp_2htdocs_2_fake2_2wp-content_2plugins_2_enquiry-_form_2_r_e_a_d_m_e.html#autotoc_md18", null ]
+      [ "Contributing", "md__c_1_2_users_2nashc_2_git_hub_01_projects_2_enquiry-_form_2_r_e_a_d_m_e.html#autotoc_md14", null ],
+      [ "License", "md__c_1_2_users_2nashc_2_git_hub_01_projects_2_enquiry-_form_2_r_e_a_d_m_e.html#autotoc_md16", null ],
+      [ "Contact", "md__c_1_2_users_2nashc_2_git_hub_01_projects_2_enquiry-_form_2_r_e_a_d_m_e.html#autotoc_md18", null ]
     ] ],
     [ "Files", "files.html", [
       [ "File List", "files.html", "files_dup" ],
@@ -52,7 +52,7 @@ var NAVTREE =
 
 var NAVTREEINDEX =
 [
-"dir_050b4259fbe0e2abdf13cb141876129f.html"
+"dir_46dc8ac68f57394fbc4c170849c8cd59.html"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';
