@@ -39,6 +39,15 @@ var NAVTREE =
       [ "License", "md__c_1_2_users_2nashc_2_git_hub_01_projects_2_enquiry-_form_2_r_e_a_d_m_e.html#autotoc_md16", null ],
       [ "Contact", "md__c_1_2_users_2nashc_2_git_hub_01_projects_2_enquiry-_form_2_r_e_a_d_m_e.html#autotoc_md18", null ]
     ] ],
+    [ "Data Structures", "annotated.html", [
+      [ "Data Structures", "annotated.html", "annotated_dup" ],
+      [ "Data Structure Index", "classes.html", null ],
+      [ "Data Fields", "functions.html", [
+        [ "All", "functions.html", null ],
+        [ "Functions", "functions_func.html", null ],
+        [ "Variables", "functions_vars.html", null ]
+      ] ]
+    ] ],
     [ "Files", "files.html", [
       [ "File List", "files.html", "files_dup" ],
       [ "Globals", "globals.html", [
@@ -52,7 +61,7 @@ var NAVTREE =
 
 var NAVTREEINDEX =
 [
-"dir_46dc8ac68f57394fbc4c170849c8cd59.html"
+"annotated.html"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';

@@ -1,7 +1,7 @@
 var searchData=
 [
-  ['configuration_0',['Configuration',['../md__c_1_2_users_2nashc_2_git_hub_01_projects_2_enquiry-_form_2_r_e_a_d_m_e.html#autotoc_md9',1,'']]],
-  ['contact_1',['Contact',['../md__c_1_2_users_2nashc_2_git_hub_01_projects_2_enquiry-_form_2_r_e_a_d_m_e.html#autotoc_md18',1,'']]],
-  ['contributing_2',['Contributing',['../md__c_1_2_users_2nashc_2_git_hub_01_projects_2_enquiry-_form_2_r_e_a_d_m_e.html#autotoc_md14',1,'']]],
-  ['customizing_20the_20enquiry_20form_20strong_3',['&lt;strong&gt;Customizing the Enquiry Form&lt;/strong&gt;',['../md__c_1_2_users_2nashc_2_git_hub_01_projects_2_enquiry-_form_2_r_e_a_d_m_e.html#autotoc_md10',1,'']]]
+  ['_24category_0',['$category',['../enquiry-confirmation-template_8php.html#a18b2a8d133fa7733bf34abcc6ca2ef5b',1,'$category:&#160;enquiry-confirmation-template.php'],['../enquiry-notification-template_8php.html#a18b2a8d133fa7733bf34abcc6ca2ef5b',1,'$category:&#160;enquiry-notification-template.php']]],
+  ['_24product_5fname_1',['$product_name',['../enquiry-confirmation-template_8php.html#a7e06b51245839e532a5fa55050f46a41',1,'$product_name:&#160;enquiry-confirmation-template.php'],['../enquiry-notification-template_8php.html#a7e06b51245839e532a5fa55050f46a41',1,'$product_name:&#160;enquiry-notification-template.php']]],
+  ['_24sku_2',['$sku',['../enquiry-confirmation-template_8php.html#a1f8a61d63e9c6923a5c8e349d69d6f93',1,'$sku:&#160;enquiry-confirmation-template.php'],['../enquiry-notification-template_8php.html#a1f8a61d63e9c6923a5c8e349d69d6f93',1,'$sku:&#160;enquiry-notification-template.php']]],
+  ['_24terms_3',['$terms',['../enquiry-confirmation-template_8php.html#ad6d756efb764174cfe7a6e9abc97e3eb',1,'$terms:&#160;enquiry-confirmation-template.php'],['../enquiry-notification-template_8php.html#ad6d756efb764174cfe7a6e9abc97e3eb',1,'$terms:&#160;enquiry-notification-template.php']]]
 ];
